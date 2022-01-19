@@ -7,13 +7,6 @@ public class CameraMotor : MonoBehaviour
     public Transform LookAt;
     public float boundX = 0.15f;
     public float boundY = 0.05f;
-    
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void LateUpdate()
