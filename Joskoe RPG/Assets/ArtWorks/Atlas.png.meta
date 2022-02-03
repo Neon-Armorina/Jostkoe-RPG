@@ -137,6 +137,24 @@ TextureImporter:
   - first:
       213: 2114176695594709982
     second: Heal_Fountain_0
+  - first:
+      213: 2489748775411591063
+    second: Chest_Silver_0
+  - first:
+      213: 9048021198963646631
+    second: Chest_Silver_1
+  - first:
+      213: -1655761581076612383
+    second: Chest_Silver_2
+  - first:
+      213: -5657005582927067749
+    second: Chest_Gold_0
+  - first:
+      213: 2896179404482671487
+    second: Chest_Gold_1
+  - first:
+      213: 2526274175933715322
+    second: Chest_Gold_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1829,6 +1847,132 @@ TextureImporter:
       bones: []
       spriteID: ed3f455d080175d10800000000000000
       internalID: 2114176695594709982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Silver_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972f5ae15d5d8220800000000000000
+      internalID: 2489748775411591063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Silver_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0ae6c8757019d70800000000000000
+      internalID: 9048021198963646631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Silver_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea70375d9d8509e0800000000000000
+      internalID: -1655761581076612383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Gold_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950b39f4674e71b0800000000000000
+      internalID: -5657005582927067749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Gold_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73fdf1e2db413820800000000000000
+      internalID: 2896179404482671487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Gold_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7395cd6af02f0320800000000000000
+      internalID: 2526274175933715322
       vertices: []
       indices: 
       edges: []
